@@ -1,1 +1,45 @@
-test
+# Inventory Management Analytics Framework
+
+## 📌 Project Overview
+This project focuses on designing an **end-to-end Inventory Management Analytics Framework** to help organizations:
+
+- Reduce overstock and understock situations
+- Minimize revenue loss due to stockouts
+- Improve supplier and distributor performance
+- Optimize working capital and overall revenue
+
+The solution is **filter-driven, KPI-backed**, and designed for **decision-makers**, not just reporting.
+
+---
+
+## 🎯 Business Problems Solved
+- Excess capital locked in slow-moving or dead stock
+- Revenue loss due to frequent stockouts
+- Poor visibility into supplier and distributor performance
+- Inefficient replenishment and reorder planning
+- Lack of prioritization for high-impact SKUs
+
+---
+
+## 🧠 Analytical Approach
+- Focused on the **Pareto principle (20% SKUs driving 80% revenue)**
+- Combines **demand, supply, and operational performance metrics**
+- Uses variability (SD, CV) to identify unstable and risky SKUs
+- Aligns inventory decisions with **revenue and customer impact**
+
+---
+
+## 📊 Key Outcomes
+- Identified dead stock and high holding-cost items
+- Quantified missed sales due to stockouts
+- Enabled reorder planning using EOQ & Reorder Point logic
+- Highlighted suppliers and distributors needing performance improvement
+
+---
+
+## 📁 Repository Contents
+- **kpi_definitions.md** → KPI explanations and formulas
+- **sample_queries.sql** → Sample SQL logic using dummy data
+- **dashboard_outline.md** → Dashboard layout and decision flow
+
+> ⚠️ Note: This project uses **dummy/sample data only** for demonstration purposes.
