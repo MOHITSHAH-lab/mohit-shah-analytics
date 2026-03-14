@@ -1,69 +1,117 @@
-# mohit-shah-analytics
-Banking compliance, automation, and inventory analytics portfolio with business-focused KPI logic.
+# Mohit Shah – Data Analytics Portfolio
 
-Hi, I'm Mohit Shah 👋
-
-Data Analyst | Banking, Compliance & Inventory Analytics
-
-I am a Data Analyst with experience in the banking sector and business analytics, specializing in:
-
-- Audit & compliance analytics aligned with RBI guidelines
-- Rule-based automation to prevent regulatory penalties
-- Inventory analytics to reduce overstock, understock, and revenue leakage
-
-I focus on building scalable, logic-driven solutions that convert regulatory and operational requirements into repeatable, automated processes.
+Banking compliance, automation, and inventory analytics portfolio focused on **business-driven SQL logic and KPI frameworks.**
 
 ---
 
-🔹 Professional Experience Highlights:
+# Hi, I'm Mohit Shah 👋
 
-- Worked with IDBI Bank and multiple Co-operative Banks
-- Designed and implemented 100+ standardized audit & compliance rules
-- Continuously updated logic based on RBI circulars and regulatory changes
-- Built automation-ready bots using the Infilytics tool
-- Enabled clients to generate results by simply uploading new data
-- Contributed to inventory management dashboard design for revenue optimization
+**Data Analyst | Banking, Compliance & Inventory Analytics**
 
----
+I am a Data Analyst with experience in **banking analytics, regulatory compliance, and operational analytics**.
 
- 🔹 Key Skills:
-
-- SQL
-- Banking & RBI Compliance Analytics
-- Rule-Based Automation
-- Inventory Management Analytics
-- Dashboard Design & Business Storytelling
-- Variance, CV, Pareto & EOQ Analysis
+My work focuses on translating **business and regulatory requirements into automated, logic-driven analytical solutions** that improve operational efficiency and reduce financial risk.
 
 ---
 
-🔹 Portfolio Projects:
+# Professional Experience Highlights
 
-📊 Inventory Management Analytics Dashboard  
-- Reduced stockout risk and overstock exposure  
-- Identified dead stock and working capital lock-in  
-- Enabled reorder planning using EOQ & ROP logic  
+• Worked with **IDBI Bank and multiple Co-operative Banks**
 
-🏦 Banking Compliance & Audit Rule Engine  
-- 100+ RBI-aligned rules for penalty prevention  
-- Automated validation & exception identification  
-- Adaptable logic for new or revised RBI guidelines  
+• Designed and implemented **100+ standardized audit & compliance rules**
 
-🤖 Automation Bots (Infilytics Tool)  
-- Locked, validated logic for repeatable execution  
-- Scheduled processing with minimal manual effort  
+• Continuously updated logic based on **RBI circulars and regulatory updates**
+
+• Built **automation-ready bots using the Infilytics platform**
+
+• Enabled clients to generate audit results simply by **uploading new datasets**
+
+• Contributed to **inventory analytics dashboards** supporting revenue optimization and working capital efficiency
 
 ---
 
-🔹 What You’ll Find in My Repositories:
+# Core Skills
 
-- Business-driven SQL logic
-- Clear documentation and explanations
-- KPI definitions with formulas
-- Dashboard outlines & decision frameworks
+### Technical
+
+* SQL
+* Excel
+* Power BI
+* Data Analysis
+* Data Validation
+
+### Business & Analytics
+
+* Banking & RBI Compliance Analytics
+* Rule-Based Automation
+* Inventory Optimization
+* Financial Reconciliation
+* Dashboard Design & Business Storytelling
+
+### Analytical Methods
+
+* Variance Analysis
+* Coefficient of Variation (CV)
+* Pareto Analysis
+* EOQ (Economic Order Quantity)
+* ABC Inventory Classification
 
 ---
 
-🔹 Connect With Me:
+# Portfolio Projects
 
-- LinkedIn: https://www.linkedin.com/in/mohitshah27302
+## Banking Compliance & Audit Rule Engine
+
+Developed a **rule-based compliance analytics framework** to detect exceptions in banking transaction data and support regulatory compliance.
+
+Key features:
+
+• 100+ RBI-aligned audit rules
+• Automated exception detection
+• Validation checks to prevent regulatory penalties
+• Adaptable logic for future RBI guideline updates
+
+---
+
+## Inventory Management Analytics Dashboard
+
+Designed analytics framework to help operations teams monitor **inventory health and working capital efficiency.**
+
+Key insights delivered:
+
+• Identification of **dead stock and slow-moving inventory**
+
+• Reduced **stockout risk and overstock exposure**
+
+• Reorder planning using **EOQ and ROP logic**
+
+• KPI-driven dashboard for operational decision making
+
+---
+
+## Automation Bots (Infilytics Tool)
+
+Implemented automation workflows enabling repeatable analytics execution.
+
+Capabilities:
+
+• Locked and validated analytical logic
+• Automated data processing
+• Scheduled execution with minimal manual intervention
+• Consistent result generation across datasets
+
+---
+
+# What You’ll Find in This Portfolio
+
+• Business-focused SQL logic
+• KPI definitions and calculation frameworks
+• Analytical project documentation
+• Dashboard design concepts
+• Data-driven decision frameworks
+
+---
+
+# Connect With Me
+
+LinkedIn: (Add your LinkedIn link here)
