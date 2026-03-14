@@ -1,45 +1,58 @@
-Inventory Management Analytics Framework
+# Inventory Management Analytics Framework
 
-📌 Project Overview
-This project focuses on designing an end-to-end Inventory Management Analytics Framework to help organizations:
+## Project Overview
 
-- Reduce overstock and understock situations
-- Minimize revenue loss due to stockouts
-- Improve supplier and distributor performance
-- Optimize working capital and overall revenue
+This project designs an **end-to-end Inventory Management Analytics Framework** that helps organizations improve inventory visibility, reduce working capital lock-in, and prevent revenue loss caused by stockouts.
 
-The solution is filter-driven, KPI-backed, and designed for decision-makers, not just reporting.
+The solution combines **inventory KPIs, demand variability analysis, supplier performance metrics, and reorder optimization logic**.
 
 ---
 
-🎯 Business Problems Solved
-- Excess capital locked in slow-moving or dead stock
-- Revenue loss due to frequent stockouts
-- Poor visibility into supplier and distributor performance
-- Inefficient replenishment and reorder planning
-- Lack of prioritization for high-impact SKUs
+## Business Problems Solved
+
+• Overstock leading to working capital lock-in
+• Revenue loss due to stockouts
+• Poor supplier and distributor performance visibility
+• Inefficient reorder planning
+• Lack of SKU prioritization
 
 ---
 
-🧠 Analytical Approach
-- Focused on the Pareto principle (20% SKUs driving 80% revenue)
-- Combines demand, supply, and operational performance metrics
-- Uses variability (SD, CV) to identify unstable and risky SKUs
-- Aligns inventory decisions with revenue and customer impact
+## Analytical Methods Used
+
+* ABC Inventory Classification
+* XYZ Demand Variability Classification
+* FSN Movement Classification
+* EOQ (Economic Order Quantity)
+* Coefficient of Variation (CV)
+* Pareto Analysis (80/20 Rule)
+* GMROII Profitability Analysis
 
 ---
 
-📊 Key Outcomes
-- Identified dead stock and high holding-cost items
-- Quantified missed sales due to stockouts
-- Enabled reorder planning using EOQ & Reorder Point logic
-- Highlighted suppliers and distributors needing performance improvement
+## Dashboard Components
+
+The analytics dashboard includes:
+
+• Inventory health KPIs
+• Demand vs supply trends
+• Stockout impact analysis
+• Reorder point monitoring
+• Supplier performance metrics
 
 ---
 
-📁 Repository Contents
-- kpi_definitions.md → KPI explanations and formulas
-- sample_queries.sql → Sample SQL logic using dummy data
-- dashboard_outline.md → Dashboard layout and decision flow
+## Repository Structure
 
-> ⚠️ Note: This project uses dummy/sample data only for demonstration purposes.
+| File                   | Description                            |
+| ---------------------- | -------------------------------------- |
+| dashboard_kpis.md      | Inventory KPI definitions and formulas |
+| analytics_charts.md    | Charts used for inventory analysis     |
+| operational_reports.md | Operational reports and SKU analysis   |
+| sample_queries.sql     | Example SQL queries using sample data  |
+
+---
+
+## Note
+
+This project uses **sample/dummy data only** to demonstrate analytics logic.
