@@ -114,4 +114,4 @@ Capabilities:
 
 # Connect With Me
 
-LinkedIn: (Add your LinkedIn link here)
+LinkedIn: https://www.linkedin.com/in/mohitshah27302
