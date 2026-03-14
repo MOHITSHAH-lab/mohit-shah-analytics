@@ -1,4 +1,4 @@
-# Mohit Shah – Data Analytics Portfolio
+# Mohit Shah – Data Analytics
 
 Banking compliance, automation, and inventory analytics portfolio focused on **business-driven SQL logic and KPI frameworks.**
 
