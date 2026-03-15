@@ -75,7 +75,7 @@ Key features:
 • Identification of **circular money movement patterns**
 
 📂 Project Repository:
-https://github.com/mohit-shah-analytics/banking-fraud-detection-sql
+https://github.com/MOHITSHAH-lab/mohit-shah-analytics/tree/main/banking-fraud-detection-sql
 
 ---
 
