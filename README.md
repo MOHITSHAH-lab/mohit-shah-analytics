@@ -1,9 +1,3 @@
-# Mohit Shah – Data Analytics
-
-Banking compliance, automation, and inventory analytics portfolio focused on **business-driven SQL logic and KPI frameworks.**
-
----
-
 # Hi, I'm Mohit Shah 👋
 
 **Data Analyst | Banking, Compliance & Inventory Analytics**
