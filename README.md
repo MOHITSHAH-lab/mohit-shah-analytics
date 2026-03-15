@@ -60,22 +60,28 @@ My work focuses on translating **business and regulatory requirements into autom
 
 # Portfolio Projects
 
-## Banking Compliance & Audit Rule Engine
+## Banking Fraud Detection using SQL
 
-Developed a **rule-based compliance analytics framework** to detect exceptions in banking transaction data and support regulatory compliance.
+A rule-based fraud monitoring framework designed to detect suspicious banking transaction patterns using SQL logic.
 
 Key features:
 
-• 100+ RBI-aligned audit rules
-• Automated exception detection
-• Validation checks to prevent regulatory penalties
-• Adaptable logic for future RBI guideline updates
+• Detection of **rapid transaction reversals**
+
+• Identification of **dormant account activity**
+
+• Detection of **structured deposits below regulatory thresholds**
+
+• Identification of **circular money movement patterns**
+
+📂 Project Repository:
+https://github.com/mohit-shah-analytics/banking-fraud-detection-sql
 
 ---
 
-## Inventory Management Analytics Dashboard
+## Inventory Management Analytics Framework
 
-Designed analytics framework to help operations teams monitor **inventory health and working capital efficiency.**
+Designed an analytics framework to help operations teams monitor **inventory health and working capital efficiency.**
 
 Key insights delivered:
 
@@ -83,9 +89,12 @@ Key insights delivered:
 
 • Reduced **stockout risk and overstock exposure**
 
-• Reorder planning using **EOQ and ROP logic**
+• Reorder planning using **EOQ and Reorder Point logic**
 
 • KPI-driven dashboard for operational decision making
+
+📂 Project Repository:
+https://github.com/mohit-shah-analytics/inventory-management-analytics
 
 ---
 
