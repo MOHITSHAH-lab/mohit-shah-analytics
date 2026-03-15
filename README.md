@@ -94,7 +94,7 @@ Key insights delivered:
 • KPI-driven dashboard for operational decision making
 
 📂 Project Repository:
-https://github.com/mohit-shah-analytics/inventory-management-analytics
+https://github.com/MOHITSHAH-lab/mohit-shah-analytics/tree/main/inventory-management-analytics
 
 ---
 
