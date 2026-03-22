@@ -34,7 +34,8 @@ SELECT
     COUNT(*) AS deposit_count,
     SUM(amount) AS total_deposit
 FROM transactions
-WHERE amount BETWEEN 45000 AND 49999
+WHERE type = 'CREDIT'
+and amount BETWEEN 45000 AND 49999
 GROUP BY account_id
 HAVING deposit_count >= 3;
 
