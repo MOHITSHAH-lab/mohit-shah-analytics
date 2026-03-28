@@ -80,6 +80,12 @@ Built automation workflows for repeatable analytics.
 
 ---
 
+## 📊 Dashboard Preview
+
+Key KPIs: Inventory Turnover, Dead Stock %, Stockout Risk, Reorder Levels
+
+![Inventory Dashboard](Dashboard%20Image.png)
+
 ## 🔗 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/mohitshah27302
