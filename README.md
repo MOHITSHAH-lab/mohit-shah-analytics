@@ -1,3 +1,5 @@
+🚀 Open to Data Analyst Opportunities
+
 # 👋 Hi, I'm Mohit Shah
 
 💼 **Data Analyst | Banking, Compliance & Business Analytics**
