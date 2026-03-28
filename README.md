@@ -84,7 +84,7 @@ Built automation workflows for repeatable analytics.
 
 Key KPIs: Inventory Turnover, Dead Stock %, Stockout Risk, Reorder Levels
 
-![Inventory Dashboard](Dashboard%20Image.png)
+![Inventory Dashboard](https://github.com/MOHITSHAH-lab/mohit-shah-analytics/blob/main/inventory-management-analytics/Dashboard%20Image.png)
 
 ## 🔗 Connect With Me
 
