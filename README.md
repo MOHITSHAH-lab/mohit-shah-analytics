@@ -54,20 +54,59 @@ My work focuses on translating **business and regulatory requirements into autom
 
 # Portfolio Projects
 
-## Banking Fraud Detection using SQL
+# 🏦 Banking Fraud Detection using SQL
 
-A rule-based fraud monitoring framework designed to detect suspicious banking transaction patterns using SQL logic.
+## 📌 Problem Statement
+Financial institutions need to identify fraudulent transactions in real-time to prevent losses and ensure compliance. This project focuses on detecting suspicious transaction patterns using SQL-based rules.
 
-Key features:
+---
 
-• Detection of **rapid transaction reversals**
+## 🎯 Objective
+To build a rule-based fraud detection system using SQL queries that can identify high-risk transaction behaviors.
 
-• Identification of **dormant account activity**
+---
 
-• Detection of **structured deposits below regulatory thresholds**
+## 🧠 Key Fraud Scenarios Covered
 
-• Identification of **circular money movement patterns**
+- Rapid transaction reversals  
+- Dormant account activity  
+- Structured deposits below reporting thresholds  
+- Circular money movement patterns  
 
+---
+
+## ⚙️ Approach
+
+- Extracted and analyzed transaction data using SQL  
+- Designed rule-based logic to flag anomalies  
+- Used joins, aggregations, and window functions for pattern detection  
+
+---
+
+## 🛠️ Tools Used
+
+- SQL (Core Logic) 
+
+---
+
+## 📊 Key Insights
+
+- Identified behavioral patterns commonly associated with fraud  
+- Demonstrated how structured queries can simulate fraud monitoring systems  
+- Highlighted importance of transaction-level analysis  
+
+---
+
+## 🚀 Business Impact
+
+- Helps detect fraud early and reduce financial risk  
+- Supports compliance with regulatory monitoring  
+- Can be extended into real-time fraud detection pipelines  
+
+---
+
+## 🔗 Project Link
+[View Project](https://github.com/MOHITSHAH-lab/mohit-shah-analytics/tree/main/banking-fraud-detection-sql)
 📂 Project Repository:
 https://github.com/MOHITSHAH-lab/mohit-shah-analytics/tree/main/banking-fraud-detection-sql
 
